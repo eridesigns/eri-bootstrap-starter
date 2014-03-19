@@ -14,6 +14,6 @@ You're done.
 
 ### This template is not using any typical Grunt plugins. 
 
-It's use is basically just creating a stucture for your Bootstap based app with all the assets included. 
+It is basically just creating a stucture for your Bootstap based app with all the assets included. 
 
 If you are a Brackets user, then as soon as you start working on the style.less file, the style.css is going to be created and compiled.
