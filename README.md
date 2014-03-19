@@ -1,4 +1,4 @@
-# Grunt Scaffolding Template for Bootstrap 3.1
+# Grunt Scaffolding Template for Bootstrap 3.1.1
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
